@@ -45,4 +45,5 @@ dependencies {
     api deps.constraint_layout
     api deps.kotlin.stdlib
     api deps.lottie
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
 }
